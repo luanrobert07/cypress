@@ -1,8 +1,8 @@
 <h1 align="center"> 
-	Prova
+	S206_LAB
 </h1>
 <h4 align="center"> 
-	🚧  Prova S206_lab - Teste Cypress e Postman ♻️ Concluído 🚀 🚧
+	🚧  S206_lab - Teste Cypress e Postman ♻️ Concluído 🚀 🚧
 </h4>
 
 
