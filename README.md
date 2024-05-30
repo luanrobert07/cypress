@@ -2,7 +2,7 @@
 	Prova
 </h1>
 <h4 align="center"> 
-	🚧  Prova S206_lab - Teste Cypress e Postman ♻️ Em desenvolvimento 🚀 🚧
+	🚧  Prova S206_lab - Teste Cypress e Postman ♻️ Concluído 🚀 🚧
 </h4>
 
 
@@ -15,7 +15,7 @@
 ## ⚙️ Funcionalidades
 
 - [x] Teste com Cypress
-- [ ] Teste com Postman
+- [x] Teste com Postman
 
 ---
 
@@ -33,5 +33,10 @@
    $ ./node_modules/.bin/cypress open
    # Rodar relatório
    $ ./node_modules/.bin/cypress run --spec 'cypress/e2e/**/'
+   ```
+1. Teste com postamn
+   
+   ```bash
+   # Para o teste de criar um usuário e atualizar um usuário pelo id é necessário gerar um token pelo site: https://gorest.co.in/my-account/access-tokens e adicionar ele na parte de Authorization/Bearer Token no Postman
    ```
 
