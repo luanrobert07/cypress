@@ -25,7 +25,7 @@
    
    ```bash
    # Clone este repositório
-   $ git clone 
+   $ git clone https://github.com/luanrobert07/cypress.git
    $ cd path
    # Baixar dependências
    $ npm i
